@@ -33,20 +33,6 @@ function App() {
   )
 }
 
-function App() {
-  const [todos, setTodos] = useState([]);
-
-  function addTodo(text) {
-    console.log('Add Todo', text);
-    // let createAJax = new XMLHttpRequest
-  }
-
-  function createTodo(text){
-    
-  }
-
-
-}
 
 
 export default App
